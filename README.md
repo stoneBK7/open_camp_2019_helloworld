@@ -1,3 +1,6 @@
+Googleドキュメントでブラッシュアップしたものを共有しておりますので、こちらも活用下さい(2019/05/19)
+https://docs.google.com/document/d/1fP-ZXU6gBuKmG1Cvwev5H362K7hArFZAMIvW1NyNcOo/edit?usp=sharing
+
 # ワークショップ01(表示されているテキストを変更しよう)
 ## 概要
 これは「オープンキャンプ in 南島原 2019」のワークショップで実施する課題の内容です。
